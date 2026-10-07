@@ -2,6 +2,12 @@
 
 SQL and Power BI analysis of customer acquisition, repeat purchasing, delivery performance, reviews, and payment behavior using the Olist Brazilian E-Commerce dataset.
 
+## Dataset
+
+**Source:** [Brazilian E-Commerce Public Dataset by Olist on Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce/home)
+
+The raw CSV files are not included in this repository. Download them from the source above and place them in the local `DATA/` directory.
+
 ## Dashboard
 
 ### Customer Retention

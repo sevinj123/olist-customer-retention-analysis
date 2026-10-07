@@ -14,7 +14,7 @@ Which customer segments have higher repeat purchase rates?
 
 ## Dataset
 
-**Source:** Olist Brazilian E-Commerce Public Dataset from Kaggle.
+**Source:** [Brazilian E-Commerce Public Dataset by Olist on Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce/home).
 
 The analysis uses the following PostgreSQL tables:
 
