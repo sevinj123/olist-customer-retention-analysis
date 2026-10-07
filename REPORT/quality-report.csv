@@ -1,0 +1,7 @@
+"test_name","issue_count","status"
+"DQ-001: Delivered orders with items must have a payment record",1,"FAIL"
+"DQ-002: Payment must match item and freight total within BRL 0.01",303,"FAIL"
+"DQ-003: All payment records must belong to an existing order",0,"PASS"
+"DQ-004: All order item records must belong to an existing order",0,"PASS"
+"DQ-005: All order item records must reference an existing product",0,"PASS"
+"DQ-006: All order item PRICE must be greater than zero",0,"PASS"
